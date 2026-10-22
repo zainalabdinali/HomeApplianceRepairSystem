@@ -1,4 +1,5 @@
 ﻿using System;
+using HomeApplicancerepairSystem.Models;
 
 namespace HomeApplianceRepairSystem.Models
 {
